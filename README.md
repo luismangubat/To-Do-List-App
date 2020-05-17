@@ -1,5 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+
+This app is learn while coding learning proccess to understand the basics of react-redux ecosystem by the official redux website.
+
+
 ## Available Scripts
 
 In the project directory, you can run:
